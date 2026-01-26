@@ -161,6 +161,11 @@ header {
   position: relative;
   margin-top: 24px;
 }
+.social-icons li a {
+
+  font-size: 28px; /* pehle 20px tha */
+  transition: 0.3s ease;
+}
 
 .contact-menu__dropdown {
   position: absolute;

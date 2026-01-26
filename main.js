@@ -28,22 +28,22 @@ let clipNames = [
 ];
 let projects = [
   {
-    image: 'textures/project-spaze.webp',
-    url: 'https://www.spaze.social/',
+    image: 'textures/ims-projec.png',
+    url: 'https://ims-react-js-project-h95b-pmsdbv6dd-abuzardev7s-projects.vercel.app/',
   },
   {
-    image: 'textures/project-myteachers.jpg',
-    url: 'https://myteachers.com.au/',
+    image: 'textures/nuge.milk.png',
+    url: 'https://noug-landing-page-gsap.vercel.app/',
   },
   {
-    image: 'textures/project-wholesale.jpg',
-    url: 'https://wholesale.com.np/',
+    image: 'textures/Ecommrce.png',
+    url: 'https://abuzardev7.github.io/ecomrce--project--authantication--cloundry--firebase-js-/',
   },
   {
-    image: 'textures/project-pelotero.jpg',
-    url: 'https://www.peloterosenlaweb.com/',
+    image: 'textures/Tero Clone.png',
+    url: 'https://turo-website-clone-react-js.vercel.app/',
   },
-  
+ 
 ];
 let aboutCameraPos = {
   x: 0.12,
