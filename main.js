@@ -332,7 +332,7 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0x171f27, flatShading: true }),
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
-    const titleGeo = new TextGeometry('Sultan Jan', {
+    const titleGeo = new TextGeometry('Abuzar Mshahi', {
       font: font,
       size: 0.08,
       height: 0.01,
